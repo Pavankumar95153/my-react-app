@@ -1,0 +1,12 @@
+button{
+
+    background-color:green;
+    color: azure;
+    font-size: 15px;
+    width: fit-content;
+    padding: 8px;
+}
+.count{
+    font-size: 50px;
+    padding:16px;
+}
